@@ -4,7 +4,7 @@ Discord clone made using Next.js 13, Tailwind CSS, Socket.io, Prisma, and MySQL
 
 # Demo
 
-Soon
+[Here](https://dclone.netlify.app)
 
 # Credit
 
